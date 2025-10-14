@@ -1,4 +1,4 @@
-module github.com/ShivangSrivastava/dead-link
+module github.com/shv-ng/dead-link
 
 go 1.24.1
 
